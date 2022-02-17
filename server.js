@@ -28,7 +28,8 @@ const mockEvents = {
     events: [
         { title: 'A Musical Event', id: 1, description: 'World Famous Musician is gonna entertain you all on XX-XX-XXXX' },
         { title: 'An Inspiration', id: 2, description: 'A Play Called XXXXXX is ready to entertain you' },
-        { title: 'Tech Bug', id: 3, description: 'Never stop learning' }
+        { title: 'Tech Bug', id: 3, description: 'Never stop learning' },
+        { title: 'Cloud Bootcamp 1', id: 3, description: 'Deploy your own app' },
     ]
 };
 
